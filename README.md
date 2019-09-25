@@ -1,7 +1,7 @@
-[![Coverage Status](https://coveralls.io/repos/github/axetroy/s4/badge.svg?branch=master)](https://coveralls.io/github/axetroy/s4?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/axetroy/s4)](https://goreportcard.com/report/github.com/axetroy/s4)
-![License](https://img.shields.io/github/license/axetroy/s4.svg)
-![Repo Size](https://img.shields.io/github/repo-size/axetroy/s4.svg)
+[![Coverage Status](https://coveralls.io/repos/github/axetroy/tcp/badge.svg?branch=master)](https://coveralls.io/github/axetroy/tcp?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/axetroy/tcp)](https://goreportcard.com/report/github.com/axetroy/tcp)
+![License](https://img.shields.io/github/license/axetroy/tcp.svg)
+![Repo Size](https://img.shields.io/github/repo-size/axetroy/tcp.svg)
 
 ## tcp
 
