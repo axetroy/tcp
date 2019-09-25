@@ -1,0 +1,19 @@
+language: go
+
+sudo: required
+
+go:
+  - "1.13"
+
+dist: trusty
+
+env:
+  global:
+  # - GO111MODULE=on # enable Golang modules
+
+before_script:
+  - go get -v ./...
+
+script:
+  - make test
+  - make build
